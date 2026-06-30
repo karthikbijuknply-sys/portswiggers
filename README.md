@@ -23,17 +23,13 @@ Hands-on write-ups from working through [PortSwigger Web Security Academy](https
 
 ## 🎯 About
 
-Part of **Phase 1** of my self-built cybersecurity career roadmap toward a Cloud-Native Security Engineer / DevSecOps role.
+Part of my journey to study about Web application security 
 
 Each subfolder README includes:
 - ✅ Full lab index — name, difficulty, status
 - 🧠 A "What I Learned" breakdown explaining the **actual vulnerability mechanics**, not just payloads
 
 ---
-
-## ⚠️ Disclaimer
-
-All testing performed exclusively on PortSwigger's intentionally vulnerable lab environments. No real-world systems were targeted.
 
 ---
 
