@@ -38,5 +38,5 @@ All testing performed exclusively on PortSwigger's intentionally vulnerable lab 
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/karthikbijuknply-sys">karthikbiju-sys</a></sub>
+<sub>Built by <a href="https://github.com/karthikbijuknply-sys">karthikbijuknply-sys</a></sub>
 </div>
